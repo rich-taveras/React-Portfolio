@@ -4,7 +4,7 @@ import React from 'react';
 import styled from 'styled-components';
 
 const Container = styled.div`
-  max-width: 500px;
+  max-width: 800px;
   margin: auto;
   padding: 40px;
   border-radius: 10px;
@@ -13,7 +13,7 @@ const Container = styled.div`
 `;
 
 const Title = styled.h1`
-  font-size: 28px;
+  font-size: 32px;
   color: #343a40;
   margin-bottom: 20px;
   text-align: center;
