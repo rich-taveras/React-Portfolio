@@ -29,32 +29,32 @@ export default function Project() {
     <Container>
       <Title>My Projects</Title>
       <hr />
-      <Text>Description:</Text>
-      <Text>Technologies:</Text>
+      <Text>Description: Personal Portfolio</Text>
+      <Text>Technologies: HTML, CSS, JavaScript</Text>
       <Text>Link:</Text>
       {/* Add a link to your project */}
       <a href="https://findingrich.com">
         Project Link
       </a>
       <hr />
-      <Text>Description:</Text>
-      <Text>Technologies:</Text>
+      <Text>Description: My portfolio</Text>
+      <Text>Technologies: HTML, CSS, JavaScript</Text>
       <Text>Link:</Text>
       {/* Add a link to your project */}
       <a href="https://rich-taveras.github.io/findingrich/" target="_blank" rel="noopener noreferrer">
         Project Link
       </a>
       <hr />
-      <Text>Description:</Text>
-      <Text>Technologies:</Text>
+      <Text>Description: TIC-TAC-TOE GAME</Text>
+      <Text>Technologies: HTML, CSS, JavaScript</Text>
       <Text>Link:</Text>
       {/* Add a link to your project */}
       <a href="https://rich-taveras.github.io/TIC-TAC-TOE/" target="_blank" rel="noopener noreferrer">
         Project Link
       </a>
       <hr />
-      <Text>Description:</Text>
-      <Text>Technologies:</Text>
+      <Text>Description: Swimming Pool Business</Text>
+      <Text>Technologies: HTML, CSS, JavaScript, Bootstraps</Text>
       <Text>Link:</Text>
       {/* Add a link to your project */}
       <a href="https://cleanpoolsflorida.com/" target="_blank" rel="noopener noreferrer">
