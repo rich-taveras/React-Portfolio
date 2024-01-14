@@ -1,4 +1,4 @@
-# Full Stack Developer Blog
+# Full Stack Developer Portfolio
 
 Welcome to the Full Stack Developer Portfolio, a project built with Vite and React.
 
